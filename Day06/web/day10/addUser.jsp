@@ -12,7 +12,7 @@
     <title>Title</title>
 </head>
 
-<script src="${pageContext.request.contextPath}/js/jquery-3.3.1.js"></script>
+<script src="//apps.bdimg.com/libs/jquery/2.1.4/jquery.min.js"></script>
 
 <script>
     /*$(function(){
