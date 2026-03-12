@@ -1,0 +1,6 @@
+/data
+/rag-demo/backend/data
+/rag-demo/backend/venv
+/rag-demo/backend/.env
+**/node_modules
+**/dist

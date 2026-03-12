@@ -1,0 +1,11 @@
+{
+  "recall_at_1": 0.12,
+  "recall_at_3": 0.58,
+  "recall_at_5": 0.76,
+  "recall_at_10": 0.8,
+  "mrr": 0.35819047619047617,
+  "avg_response_time_ms": 1554.890604019165,
+  "total_questions": 50,
+  "tested_questions": 50,
+  "method": "hybrid_v2_db"
+}

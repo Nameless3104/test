@@ -1,0 +1,10 @@
+{
+  "recall_at_1": 0.0,
+  "recall_at_3": 0.0,
+  "recall_at_5": 0.0,
+  "recall_at_10": 0.0,
+  "mrr": 0.0,
+  "avg_response_time_s": 6.3676898527145385,
+  "total_questions": 50,
+  "tested_questions": 50
+}

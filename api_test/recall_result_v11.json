@@ -1,0 +1,9 @@
+{
+  "recall_at_1": 0.18,
+  "recall_at_3": 0.64,
+  "recall_at_5": 0.8,
+  "recall_at_10": 0.88,
+  "mrr": 0.42507936507936506,
+  "avg_response_time_ms": 3216.7912435531616,
+  "method": "text-embedding-3-small + query_rewrite"
+}
